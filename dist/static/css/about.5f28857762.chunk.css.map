@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/about.5f28857762.chunk.css","mappings":"AACA,8BACE,UAAF","sources":["webpack://vue-cli/./src/page/About.vue"],"sourcesContent":["\n.about-title {\n  color: blue;\n}\n"],"names":[],"sourceRoot":""}
